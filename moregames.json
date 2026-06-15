@@ -1,5 +1,10 @@
 {
   "Games": [
+       {
+      "name": "Test Game",
+      "logo": "https://kommodo.ai/i/i5HbZFFMVZuaGAxZdCw7",
+      "url": "https://play.google.com/store/apps/details?id=com.arrows.escaperush.puzzle"
+    },
     {
       "name": "Arrow Escape Rush",
       "logo": "https://play-lh.googleusercontent.com/2PQStWz0jLLlDfthhqAEYMMYNj2Xsu-ghgt0bqTOzZfQLCIy8t5UCLjT6PiiGSJpDz1np8RL-6F_18gWTj-H=w480-h960-rw",

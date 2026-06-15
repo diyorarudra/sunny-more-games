@@ -1,0 +1,19 @@
+{
+  "Games": [
+    {
+      "name": "Arrow Escape Rush",
+      "logo": "https://play-lh.googleusercontent.com/2PQStWz0jLLlDfthhqAEYMMYNj2Xsu-ghgt0bqTOzZfQLCIy8t5UCLjT6PiiGSJpDz1np8RL-6F_18gWTj-H=w480-h960-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.sfinfotech.arrowescaperush"
+    },
+    {
+      "name": "Triple Candy Tile Match Puzzle SFinfoTech",
+      "logo": "https://play-lh.googleusercontent.com/x97xDmRvRcp23k7J6_7MxBWL7Gy_g5TJJoyoSmcgcJu4SEgW6iBSfcEH99Hnq-hZkTli5B7-ZixcAc1e_9-2=w480-h960-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.sfinfotech.triplecandy.tilematch.puzzle"
+    },
+    {
+      "name": "Gem Sort Master: Puzzle Game",
+      "logo": "https://play-lh.googleusercontent.com/WDgVab_zGH2oYi2Xpzw1H_zTjPHi-2aNH7mrtjqpo8JZGl_7v3Sky9Ul2te-eCDaeaRoNV7Jo17SD0QCFZhl=w480-h960-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.sfinfotech.gemsortmaster.puzzlegame"
+    }
+  ]
+}
